@@ -1,0 +1,1 @@
+// This is the file for storing the code of the javascript file. I am trying to learning javascript.
